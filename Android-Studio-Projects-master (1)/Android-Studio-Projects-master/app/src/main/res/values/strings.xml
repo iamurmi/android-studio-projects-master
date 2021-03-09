@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Urmi Application</string>
+    <string name="plus">-</string>
+    <string name="pluss">+</string>
+    <string name="mines">-</string>
+    <string name="multipication">*</string>
+    <string name="division">/</string>
+</resources>
